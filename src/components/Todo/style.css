@@ -1,0 +1,7 @@
+#container-input{
+display: inline;
+}
+
+#todo-done{
+  text-decoration: line-through;
+}

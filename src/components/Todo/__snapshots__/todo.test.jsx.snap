@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`rend correctement 1`] = `
+<div
+  id="container-input"
+>
+  <input
+    className="todo-el"
+    type="checkbox"
+  />
+  <span>
+    To Do: 
+  </span>
+</div>
+`;
